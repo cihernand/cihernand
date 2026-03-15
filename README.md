@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yi
 
-<!--
-**cihernand/cihernand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computational Biologist and Data Scientist developing predictive models in the fields of Machine Learning, Computational Biology and Business Intelligence; accelerating discoveries in biomedical research and helping companies to take strategic decisions.
 
-Here are some ideas to get you started:
+Currently, I'm a student at Colegio de Matemáticas Bourbaki where I am getting hands on experience on Machine and Deep Learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are working on related topics -- especially interdisciplinary research applications (education, social sciences, healthcare ) -- and are looking for someone with strong coding, model development, and AI experience, feel free to reach out.
+
+## Featured work
+
+
+
+## Let's connect
+
+- LinkedIn: [add-your-link-here](https://www.linkedin.com/)
+- Portfolio: [add-your-link-here](https://github.com/)
+- Email: add-your-email-here
