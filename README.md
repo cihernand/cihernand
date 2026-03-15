@@ -13,6 +13,10 @@ Notebook featuring exploratory data analysis, data cleaning, Random Forest model
 
 - [RetailFraudClassifier.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb)
 
+**Sentiment Analysis with RNN (Customer Reviews)**
+Deep learning notebook for text preprocessing, tokenization, RNN-based classification, and model evaluation.
+- [SentimentReviewsDL.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/SentimentReviewsDL.ipynb)
+
 
 ## Let's connect
 
