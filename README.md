@@ -8,14 +8,10 @@ If you are working on related topics -- especially interdisciplinary research ap
 
 ## Featured work
 
-### Clasificación de Transacciones Fraudulentas en Retail
-Notebook de análisis exploratorio, limpieza de datos, modelado con Random Forest y evaluación con AUC-ROC.
+**Classification of Fraudulent Transactions in Retail**  
+Notebook featuring exploratory data analysis, data cleaning, Random Forest modeling, and AUC-ROC evaluation.
 
-- See notebook: [RetailFraudClassifier.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb)
-
-
-https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb
-
+- [RetailFraudClassifier.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb)
 
 
 ## Let's connect
