@@ -21,6 +21,6 @@ Deep learning notebook for text preprocessing, tokenization, RNN-based classific
 
 ## Let's connect
 
-- LinkedIn: [add-your-link-here](https://www.linkedin.com/)
+- LinkedIn: [Yi Hernández](https://www.linkedin.com/in/yi-hernandez-9015b69b)
 - Portfolio: [ai-for-the-working-analyst](https://github.com/cihernand/ai_for_the_working_analyst)
 
