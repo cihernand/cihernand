@@ -6,7 +6,7 @@ Currently, I'm a student at Colegio de Matemáticas Bourbaki where I am getting 
 
 If you are working on related topics -- especially interdisciplinary research applications (education, social sciences, healthcare ) -- and are looking for someone with data driven research experience, coding skills,  model development, and AI experience, please reach out.
 
-## Featured work
+## Featured work using ML & DL models
 
 **Classification of Fraudulent Transactions in Retail**  
 Notebook featuring exploratory data analysis, data cleaning, Random Forest modeling, and AUC-ROC evaluation.
