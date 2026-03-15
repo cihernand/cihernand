@@ -27,7 +27,7 @@ Image preprocessing, augmentation, CNN/ResNet50 training, and evaluation (accura
 **Anomaly detection in time series with autoencoders**  
 Time-series anomaly detection notebook that compares Conv1D and LSTM autoencoders under the same training pipeline and evaluate (loss-curve analysis, computing time, model complexity).
 
--[Timeseries_autoencoder_anomaly_detection.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/timeseries_autoencoder_anomaly_detection.ipynb)
+- [Timeseries_autoencoder_anomaly_detection.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/timeseries_autoencoder_anomaly_detection.ipynb)
 
 
 
