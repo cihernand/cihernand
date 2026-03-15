@@ -4,7 +4,7 @@ I'm a Computational Biologist and Data Scientist developing predictive models in
 
 Currently, I'm a student at Colegio de Matemáticas Bourbaki where I am getting hands on experience on Machine and Deep Learning models.
 
-If you are working on related topics -- especially interdisciplinary research applications (education, social sciences, healthcare ) -- and are looking for someone with strong coding, model development, and AI experience, feel free to reach out.
+If you are working on related topics -- especially interdisciplinary research applications (education, social sciences, healthcare ) -- and are looking for someone with data driven research experience, coding skills,  model development, and AI experience, please reach out.
 
 ## Featured work
 
@@ -17,10 +17,14 @@ Notebook featuring exploratory data analysis, data cleaning, Random Forest model
 Deep learning notebook for text preprocessing, tokenization, RNN-based classification, word2vec embeddings and model evaluation.
 
 - [SentimentReviewsDL.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/SentimentReviewsDL.ipynb)
+  
+**Grocery Image Classification: CNN vs Transfer Learning**  
+Image preprocessing, augmentation, CNN/ResNet50 training, and evaluation (accuracy, F1, confusion matrix).
 
+- [ImgClassifier_CNNvsTransferLearning.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/ImgClassifier_CNNvsTransferLearning.ipynb)
 
 ## Let's connect
 
 - LinkedIn: [Yi Hernández](https://www.linkedin.com/in/yi-hernandez-9015b69b)
-- Portfolio: [ai-for-the-working-analyst](https://github.com/cihernand/ai_for_the_working_analyst)
+- Portfolio: [AI Projects](https://github.com/cihernand/ai_for_the_working_analyst)
 
