@@ -1,4 +1,4 @@
-# Hi, I'm Yi
+# Hola, I'm Yi
 
 I'm a Computational Biologist and Data Scientist developing predictive models in the fields of Machine Learning, Computational Biology and Business Intelligence; accelerating discoveries in biomedical research and helping companies to take strategic decisions.
 
@@ -7,6 +7,14 @@ Currently, I'm a student at Colegio de Matemáticas Bourbaki where I am getting 
 If you are working on related topics -- especially interdisciplinary research applications (education, social sciences, healthcare ) -- and are looking for someone with strong coding, model development, and AI experience, feel free to reach out.
 
 ## Featured work
+
+### Clasificación de Transacciones Fraudulentas en Retail
+Notebook de análisis exploratorio, limpieza de datos, modelado con Random Forest y evaluación con AUC-ROC.
+
+- See notebook: [RetailFraudClassifier.ipynb](https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb)
+
+
+https://github.com/cihernand/ai_for_the_working_analyst/blob/main/RetailFraudClassifier.ipynb
 
 
 
